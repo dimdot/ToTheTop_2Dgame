@@ -59,10 +59,10 @@ switch (tileID) {
 			path = "Grassbridge3.bmp";
 			break;
 		case 20:
-			path = "Spike1";
+			path = "Spike1.bmp";
 			break;
 		case 21:
-			path = "Direction";
+			path = "Direction.bmp";
 			break;
 		case 99:
 			path = "Black.bmp";
