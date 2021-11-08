@@ -1,0 +1,73 @@
+
+//please link to the correct folder: "/VisualAsset/Tiles/grassland/Grassland1.bmp"
+switch (tileID) {
+		case 1:
+			path = "Grassland1.bmp";
+			break;
+		case 2:
+			path = "Grassland2.bmp";
+			break;
+		case 3:
+			path = "Grassland3.bmp";
+			break;
+		case 4:
+			path = "Grassland4.bmp";
+			break;
+		case 5:
+			path = "Grassland5.bmp";
+			break;
+		case 6:
+			path = "Grassland6.bmp";
+			break;
+		case 7:
+			path = "Grassland7.bmp";
+			break;
+		case 8:
+			path = "Grassland8.bmp";
+			break;
+		case 9:
+			path = "Grassland9.bmp";
+			break;
+		case 10:
+			path = "Grassland10.bmp";
+			break;
+		case 11:
+			path = "Grassland11.bmp";
+			break;
+		case 12:
+			path = "Grassland12.bmp";
+			break;
+		case 13:
+			path = "Grassland13.bmp";
+			break;
+		case 14:
+			path = "Grassland14.bmp";
+			break;
+		case 15:
+			path = "Grassland15.bmp";
+			break;
+		case 16:
+			path = "Grassland16.bmp";
+			break;
+		case 17:
+			path = "Grassbridge1.bmp";
+			break;
+		case 18:
+			path = "Grassbridge2.bmp";
+			break;
+		case 19:
+			path = "Grassbridge3.bmp";
+			break;
+		case 20:
+			path = "Spike1";
+			break;
+		case 21:
+			path = "Direction";
+			break;
+		case 99:
+			path = "Black.bmp";
+			break;
+		default:
+			break;
+		}
+	}
